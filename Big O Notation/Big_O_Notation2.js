@@ -11,7 +11,7 @@ function logAtLeast5(n){
 }
 logAtLeast5(3)
 //O(1) for Number is greater than 5
-//O(1) for Number is less than 5
+//O(n) for Number is less than 5
 
 function logAtLeast5(n){
     for(let i = 1; i <= Math.min(5, n); i++){
