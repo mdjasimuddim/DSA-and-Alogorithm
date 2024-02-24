@@ -50,3 +50,9 @@ __Sorting Algorithm__
 
 [__Data Structure__](https://github.com/mdjasimuddim/Data-Structure-and-Algorithm)  
 ![Data Structure](https://t3.ftcdn.net/jpg/04/20/19/08/360_F_420190829_aw7BCkCyr9nb5VJfcudtg13onzKBZuH0.jpg)
+
+##Language Name and its uses
+|Langeuage Name | Uses of Its|
+|---------------|------------|
+|Javascript     | Server / Client |
+| Phython       | Server Site |
