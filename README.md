@@ -32,7 +32,7 @@ __Searching Algorithm__
 
 __Complexity List__
 - O(1)
-- O(long)
+- O(logn)
 - O(n)
 - O(nlogn)
 - O(n^2)
