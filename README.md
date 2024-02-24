@@ -38,7 +38,7 @@ __Complexity List__
 - O(n^2)
 - O(2^n)
 - O(n^3)
-- O(n!)
+- O(n!)  
 __Sorting Algorithm__
 - [x] Bubble Sort
 - [x] Selection Sort
