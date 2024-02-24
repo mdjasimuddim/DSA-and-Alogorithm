@@ -21,3 +21,22 @@ __CSS__
   text-transform:capitalize;
 }
 ```
+
+__Complexity__
+1. Time Complexity
+2. Space Complexity
+
+__Searching Algorithm__
+1. Linear Search
+2. Binary Search
+
+__Complexity List__
+- O(1)
+- O(long)
+- O(n)
+- O(nlogn)
+- O(n^2)
+- O(2^n)
+- O(n^3)
+- O(n!)
+
