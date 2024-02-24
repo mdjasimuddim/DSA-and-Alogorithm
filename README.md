@@ -12,3 +12,12 @@ function printNumber(num){
 }
 printNumber(10);
 ```
+__CSS__
+---
+```css
+#child-element{
+  color:red;
+  font-size:20px;
+  text-transform:capitalize;
+}
+```
