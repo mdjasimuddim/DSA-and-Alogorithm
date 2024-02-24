@@ -39,4 +39,10 @@ __Complexity List__
 - O(2^n)
 - O(n^3)
 - O(n!)
-
+__Sorting Algorithm__
+- [x] Bubble Sort
+- [x] Selection Sort
+- [x] Insertion Sort
+- [x] Quick Sort
+- [x] Merge Sort
+- [ ] Radix Sort
