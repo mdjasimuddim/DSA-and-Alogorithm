@@ -7,7 +7,7 @@ I have added all the core algorithm and Data sturcture here.
 ```javascript
 function printNumber(num){
   console.log(num);
-  if(num == 0) return 1;
+  if(num == 1) return;
   return printNumber(num-1);
 }
 printNumber(10);
