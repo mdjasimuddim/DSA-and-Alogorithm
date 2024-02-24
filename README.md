@@ -47,3 +47,6 @@ __Sorting Algorithm__
 - [x] Quick Sort
 - [x] Merge Sort
 - [ ] Radix Sort
+
+__Data Structure__
+[Data Structure](https://t3.ftcdn.net/jpg/04/20/19/08/360_F_420190829_aw7BCkCyr9nb5VJfcudtg13onzKBZuH0.jpg)
